@@ -21,7 +21,7 @@
         android:textCursorDrawable="?attr/cpSearchCursorDrawable"
         android:textColor="?attr/cpSearchTextColor"
         android:textColorHint="?attr/cpSearchHintTextColor"
-        android:textSize="?attr/cpSearchTextSize" />
+        android:textSize="15sp" />
 
     <ImageView
         android:id="@+id/cp_clear_all"
